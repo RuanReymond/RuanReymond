@@ -4,17 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Ruan+%F0%9F%91%8B;Desenvolvedor+de+Software;Analista+de+Sistemas;Bora+codar+juntos%3F+%F0%9F%9A%80" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Mario correndo" width="320" />
-
 </div>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Aperto de mãos" width="32" /> Sobre mim</h2>
-
-<table>
-<tr>
-<td valign="middle">
 
 Sou **desenvolvedor de software e analista de sistemas**, de Manaus – AM 🌴.
 Gosto de criar soluções que resolvem problemas reais, do front-end ao hardware, sempre com bom humor e vontade de aprender.
@@ -23,15 +15,6 @@ Gosto de criar soluções que resolvem problemas reais, do front-end ao hardware
 - 🔭 Construindo projetos que unem web, automação e boas ideias
 - 🌱 Sempre evoluindo em JavaScript, Python e Node.js
 - 🎮 Acredito que código bom também pode ser divertido
-
-</td>
-<td valign="middle" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Coding vibe" width="320" />
-
-</td>
-</tr>
-</table>
 
 <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fogo" width="32" /> Tecnologias</h2>
 
@@ -76,17 +59,9 @@ Gosto de criar soluções que resolvem problemas reais, do front-end ao hardware
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruan-reymond-b9605a2ba/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.reymond/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RuanReymond)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="55" />
-<img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="55" />
-<img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="55" />
-<img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="55" />
-<img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="55" />
-<img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="55" />
-
-<br/><br/>
 
 <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Sorriso" width="40" />
 
